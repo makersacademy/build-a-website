@@ -1,5 +1,5 @@
 body {
-    background-image: url(/images/old_mathematics/old_mathematics.png);
+    background-image: url(/images/old_mathematics.png);
     text-align: center;
     color: rgb(0, 51, 63);
     font-family: Helvetica, Arial;
@@ -30,7 +30,7 @@ body {
 }
 header {
     padding: 15px;
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.);
     box-shadow: 1px 0 3px rgba(0, 0, 0, 0.3);
 }
 #select-image {
