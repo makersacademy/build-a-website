@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="/css/application.css" rel="stylesheet" type="text/css">
+    <script src="https://www.google.com/jsapi"></script>
+    <script src="https://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="/javascripts/support.js"></script>
+    <script src="/javascripts/application.js"></script>
+    <title>Motivational Posters</title>
+  </head>
+    <body>
+      <header>
+        <h1>Motivational Posters</h1>
+      </header>
+      <section id="select-image">
+        <h2>Step 1. Select An Image</h2>
+        <p>Enter the keyword to search for images</p>
+        <form id="search-form">
+          <input id="search-term" type="text">
+          <input type="submit" value="Go!">
+        </form>
+        <div id="search-results"></div>
+        <div id="google-branding"></div>
+      </section>
+      <section id="add text">
+        <h2>Step 2. Add Text</h2>
+        <input id="caption-text" type="type" value="Curiosity is one of the secrets of happiness">
+      </section>
+      <section id="style-caption">
+        <h2>Step 3. Style It!</h2>
+        <div id="workspace">
+          <p id="caption"></p>
+        </div>
+        <div id="caption-controls">
+          Left: <input type="number" value="10" id="caption-left">
+          Top: <input type="number" value="10" id="caption-top">
+          Width: <input type="number" value="400" id="caption-width">
+          Size: <input type="number" value="32" id="caption-size">
+          Colour: <select id="caption-colour">
+                    <option>red</option>
+                    <option>green</option>
+                    <option>white</option>
+                    <option>black</option>
+                    <option>blue</option>
+                    <option>yellow</option>
+                    <option>gray</option>
+                    <option>orange</option>
+                    <option>brown</option>
+                  </select>
+          Align: <select id="caption-align">
+                  <option>left</option>
+                  <option>center</option>
+                  <option>right</option>
+                 </select>        
+        </div>
+        <div id="twitter">
+          <a href="https://twitter.com/share" class="twitter-share-button" data-via="@makersacademy" data-size="large" data-text="Today I finished building a 'Motivational Posters' website with @makersacademy!">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+      </section>
+      <footer>
+        <div id="footer">
+          <a href="http://www.makersacademy.com/"><img src="http://assets.makersacademy.com/images/logo/ma-wordmark-red.png"></a>
+          <div>
+            I built this with help from, and shout out to my homies at, 
+            <a href="http://www.makersacademy.com">Makers Academy</a>, a selective web development bootcamp in London.
+          </div>
+          <div>
+            This page uses Google Image search, Ruby, Sinatra, Javascript, jQuery, HTML and CSS.
+          </div>
+        </div>
+      </footer>
+    </body>
+</html>

@@ -1,0 +1,83 @@
+body {
+    background-image: url(/images/old_mathematics.png);
+    text-align: center;
+    color: rgb(0, 51, 63);
+    font-family: Helvetica, Arial;
+    margin: 0;
+    padding: 0;
+}
+#workspace {
+    width: 600px;
+    min-height: 300px;
+    border: 5px dashed red;
+    margin: 0 auto;
+    position: relative;
+}
+#workspace img {
+    width: 600px;
+}
+#caption {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-weight: bold;
+    font-family: helvetica;
+    text-shadow: 0 0 5px rgba(0,0,0,0.4);
+    width: 400px;
+    font-size: 32px;
+    color: red;
+    margin: 0;
+}
+header {
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.);
+    box-shadow: 1px 0 3px rgba(0, 0, 0, 0.3);
+}
+#select-image {
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 10px;
+}
+#add-text {
+    background-color: rgba(0, 255, 255, 0.02);
+    padding: 10px;
+    box-shadow: 1px 0 3px rgba(0, 0, 0, 0.3);
+}
+#caption-text {
+    width: 600px;
+    text-align: center;
+}
+input {
+    font-size: 16px;
+}
+#style-caption {
+    background-color: rgba(255,255,255, 0.7);
+    padding: 10px;
+    box-shadow: 1px 0 3px rgba(0,0,0, 0.3);
+}
+#caption-controls {
+    padding: 10px;
+    font-size: 14px;
+}
+#caption-controls input[type="number"] {
+    width: 50px;
+}
+footer {
+    background-color: rgba(255,0,255,0.01);
+    padding: 10px;
+    text-align: left;
+    font-size: 12px;
+    box-shadow: -1px 0 5px rgba(0,0,0, 0.3);
+}
+
+#footer {
+    margin: 0 auto;
+    width: 800px;
+}
+footer img {
+    float: left;
+    margin-right: 40px;
+    width: 240px;
+}
+footer div {
+    margin: 0 auto;
+}
