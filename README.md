@@ -28,7 +28,7 @@ But don't worry - getting stuck is an inevitable part of being a developer and g
 
 2. Pair Partner. Bounce off them, discuss, and rubber-duck debug. Imagine you are seeing the problem for the first time, together.
 
-3. Isolate Keywords. Gather a small group of keywords that describe the problem area, like Array, ‘Websockets’, or ‘Terminal’.
+3. Isolate Keywords. Gather a small group of keywords that describe the problem area, like 'Array', ‘Websockets’, or ‘Terminal’.
 
 4. Isolate Error Keywords. If you have an error message, identify and add these keywords to your results from 3).
 
