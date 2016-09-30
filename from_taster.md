@@ -39,7 +39,7 @@ Finally, once you are really comfortable with the existing codebase, do the foll
 - When you enter the keyword and press Enter, the search isn't performed by default. What if you add a Javascript event to listen for when you hit "Enter" in the keyword input field? Then, when this event happens, you could kick off the image search. You'll probably need to google a little bit to find out how to listen for this event (stackoverflow.com is the best source of programming tips).
 - Right now we're using Helvetica as the font for the page. Find out how to use a different font. What fonts are available in every browser by default? Change the font to one of them.
 - Can you find out how to download an exotic font, add it to the project and apply only to the h1 header on the page using CSS?
-Right now the "Powered by Google" logo is right-aligned. Can you make it centred?
+Right now the "Powered by Google" logo is right-aligned. Can you make it ?
 - Add your name to the footer, so that everyone knew who built this site!
 - In the footer we're listing the technologies used. Can you find their websites and add the links in the footer?
 - We've got the tweet button on the page that we've got from the Twitter website. Can you find the code for the Facebook like page? (This may be a bit tricky, it may involve creating an "application" on Facebook but it's actually much easier than it sounds).
