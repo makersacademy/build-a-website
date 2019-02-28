@@ -1,20 +1,3 @@
-# Taster Weekend Resources
-
-Hi all!
-
-It was so great to meet you all this weekend. Please see a list of resources
-below that I have personally curated to help you in your journey of becoming a
-Programmer. Naturally there is a lot to get through here; I would recommend
-picking one language and sticking with it until you are feeling confident that
-you can do the basics, before delving into another.
-
-If you need any more information, please do not hesitate to contact us, and we
-will do all we can to point you in the right direction.
-
-Happy Coding,
-
-Roi
-
 ## Setting Up Your Dev Environment
 
 * [Prepare to Code](http://www.preparetocode.io/)-
