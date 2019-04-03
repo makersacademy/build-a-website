@@ -34,8 +34,4 @@ But don't worry - getting stuck is an inevitable part of being a developer and g
 
 5. Google. Research the problem using your keywords. Also use the keywords to identify relevant results (i.e. not just the first one).
 
-6. Stack Overflow. Format your question well. Expect formatting feedback on your query from coaches, and support from Alumni Helpers or fellow students/graduates. If you're struggling to create a post, grab an Alumni Helper to help out.
-
-7. Alumni Helper. Take your well-formatted Slack/Stack Overflow problem to an Alumni Helper for one-to-one guidance.
-
-8. Coach. If all else fails, get some 1-1 support. Don't be disappointed if the answer comes as more questions.
+6. Coach. If all else fails, get some 1-1 support. Don't be disappointed if the answer comes as more questions.
