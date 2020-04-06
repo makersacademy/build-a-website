@@ -1,7 +1,7 @@
 var findImagesOnGoogle = (function() {
   var data = {
     cx: '014198152100153733400:27vlrogsbsm',
-    key: 'AIzaSyA5qyZaNoT1V14PGwJUjCDW2qwE7krEduc',
+    key: 'ADD_YOUR_API_KEY_HERE',
     searchType: 'image'
   };
 
